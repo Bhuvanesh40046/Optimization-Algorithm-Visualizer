@@ -6,7 +6,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Optimization Visualizer", layout="wide", page_icon="🔍")
 
-st.title("Optimization Algorithm Visualizer")
+st.title("Optimization Algorithm Visualizer — B.V.S Bhuvanesh (2310040046)")
 st.markdown("Interactive demonstrations of four optimization algorithms.")
 st.markdown("---")
 
